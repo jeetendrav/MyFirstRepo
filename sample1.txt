@@ -1,2 +1,4 @@
 hi this file is modified.
 This  file is modified in github so that we can fetch it at local
+
+This  file is modified in local and now try  pull the code from master
